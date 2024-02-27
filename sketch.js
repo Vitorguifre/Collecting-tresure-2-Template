@@ -99,9 +99,9 @@ function draw() {
         //  over.addAnimation("gameover",gover);
         //  over.scale=0.7
 
-        //  over = createSprite(180,280,20,20);
-        //  over.addAnimation("gameover",gover);
-        //  over.scale=0.7
+          over = createSprite(180,280,20,20);
+         over.addAnimation("gameover",gover);
+          over.scale=0.7
 
         //  over = createSprite(180,280,20,20);
         //  over.addAnimation(gover);
